@@ -21,10 +21,10 @@ const Footer = () => {
           presence to the next level?
         </h1>
         <p className="text-white-200 md:mt-10 my-5 text-center">
-          Reach out to us today and let&apos;s discuss how InspireoTech can help
-          you achieve your goals.
+          Reach out to us today and let&apos;s discuss how Limeout Services can
+          help you achieve your goals.
         </p>
-        <a href="mailto:inspireotech@gmail.com">
+        <a href="mailto:limeoutservices@gmail.com">
           <MagicButton
             title="Let's get in touch"
             icon={<FaLocationArrow />}
@@ -34,7 +34,7 @@ const Footer = () => {
       </div>
       <div className="flex mt-16 md:flex-row flex-col justify-between items-center">
         <p className="md:text-base text-sm md:font-normal font-light">
-          Copyright © 2024 InspireoTech Solutions
+          Copyright © 2024 Limeout Solutions
         </p>
 
         <div className="flex items-center md:gap-3 gap-6">

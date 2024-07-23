@@ -7,9 +7,9 @@ import { ThemeProvider } from "./provider";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "InspireoTech Solutions",
+  title: "Limeout Services",
   description:
-    "Discover Inspireotech Solutions: Experts in custom software development, website design, and mobile app creation for Android and iOS. We deliver innovative solutions tailored to your needs.",
+    "Design & Branding | Content Creation | Web Development | Social Media Marketing | SEO | Ads & Ppc | Event Management | Catering | Graphic Designing",
 };
 
 export default function RootLayout({
@@ -22,7 +22,7 @@ export default function RootLayout({
       <head>
         <link
           rel="icon"
-          href="https://firebasestorage.googleapis.com/v0/b/inspireotech-logo.appspot.com/o/download.png?alt=media&token=d9b68622-75ee-4334-9097-df84ef5735fd"
+          href="https://firebasestorage.googleapis.com/v0/b/inspireotech-logo.appspot.com/o/Screenshot%202024-07-23%20145632.png?alt=media&token=f6a45ac9-f095-4038-92f2-68503dafe78f"
           sizes="any"
         />
       </head>

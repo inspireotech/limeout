@@ -51,7 +51,7 @@ export const gridItems = [
     id: 5,
     title:
       "Aligns technology vision with business strategy and responsible for all aspects of development and implementation.",
-    description: "InspireoTech",
+    description: "Limeout Services",
     className: "md:col-span-3 md:row-span-2",
     imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
     titleClassName: "justify-center md:justify-start lg:justify-center",
@@ -286,31 +286,31 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Collaborating with Inspireotech Solutions was an absolute pleasure. their professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. their enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Inspireotech is the ideal partner.",
+      "Collaborating with Limeout Services was an absolute pleasure. their professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. their enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Limeout is the ideal partner.",
     name: "Ayesha Asad",
     title: "Founder Kare Beaute",
   },
   {
     quote:
-      "Inspireotech Solutions exceeded our expectations with their custom software development. Their team understood our needs perfectly and delivered a seamless solution that has greatly improved our workflow.",
+      "Limeout Services exceeded our expectations with their custom software development. Their team understood our needs perfectly and delivered a seamless solution that has greatly improved our workflow.",
     name: "Nayaab ali Raja",
     title: "CEO EvoShpere Marketing",
   },
   {
     quote:
-      "The Android app developed by Inspireotech Solutions has been a game-changer for our business. It's robust, scalable, and exactly what we envisioned. Their expertise and dedication are commendable.",
+      "The Android app developed by Limeout Services has been a game-changer for our business. It's robust, scalable, and exactly what we envisioned. Their expertise and dedication are commendable.",
     name: "Asif luqman",
     title: "politician",
   },
   {
     quote:
-      "Working with Inspireotech Solutions on our iOS app was a fantastic experience. They brought our concept to life with a beautifully designed, high-performing application. Highly recommended!",
+      "Working with Limeout Services on our iOS app was a fantastic experience. They brought our concept to life with a beautifully designed, high-performing application. Highly recommended!",
     name: "Kinki Cheung",
     title: "CEO of Openclass (HK) Limited",
   },
   {
     quote:
-      "Our new website designed by Inspireotech Solutions is stunning and user-friendly. The team was professional, responsive, and delivered on time. We’ve seen a significant increase in our online engagement.",
+      "Our new website designed by Limeout Services is stunning and user-friendly. The team was professional, responsive, and delivered on time. We’ve seen a significant increase in our online engagement.",
     name: "Anas Ali",
     title: "Director wealth university",
   },
@@ -359,15 +359,15 @@ export const workExperience = [
   },
   {
     id: 2,
-    title: "iOS App Development",
-    desc: "Develop cutting-edge iOS applications with a focus on quality and seamless user experience. Our apps are optimized for performance and designed to captivate your audience.",
+    title: "Social Media Marketing",
+    desc: "Elevate your brand’s online presence with our strategic social media marketing services. We create engaging content and targeted campaigns to connect with your audience and drive growth.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
   },
   {
     id: 3,
-    title: "Android App Development",
-    desc: "Transform your ideas into high-performance Android applications. We deliver scalable and robust apps that enhance user engagement and functionality.",
+    title: "Event Management",
+    desc: "Make your events unforgettable with our expert event management services. From planning to execution, we handle every detail to ensure a seamless and memorable experience.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp3.svg",
   },
