@@ -286,33 +286,33 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Collaborating with Inspireotech Solutions was an absolute pleasure. their professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. their enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Inspireotech is the ideal partner.",
+    name: "Ayesha Asad",
+    title: "Founder Kare Beaute",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Inspireotech Solutions exceeded our expectations with their custom software development. Their team understood our needs perfectly and delivered a seamless solution that has greatly improved our workflow.",
+    name: "Nayaab ali Raja",
+    title: "CEO EvoShpere Marketing",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "The Android app developed by Inspireotech Solutions has been a game-changer for our business. It's robust, scalable, and exactly what we envisioned. Their expertise and dedication are commendable.",
+    name: "Asif luqman",
+    title: "politician",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Working with Inspireotech Solutions on our iOS app was a fantastic experience. They brought our concept to life with a beautifully designed, high-performing application. Highly recommended!",
+    name: "Kinki Cheung",
+    title: "CEO of Openclass (HK) Limited",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Our new website designed by Inspireotech Solutions is stunning and user-friendly. The team was professional, responsive, and delivered on time. We’ve seen a significant increase in our online engagement.",
+    name: "Anas Ali",
+    title: "Director wealth university",
   },
 ];
 
